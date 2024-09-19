@@ -70,6 +70,3 @@ Talk.me é uma rede de apoio psicológico com um feed de publicações e interat
         </td>
     </tr>
 </table>
-
-
-Esperamos que o Talk.me possa ajudar muitas pessoas a encontrarem o suporte que precisam.
