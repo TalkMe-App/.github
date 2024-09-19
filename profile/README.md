@@ -1,6 +1,6 @@
-# Talk.me 🧠💙
+# *Talk.me🧠💙 - Sua Saúde Mental em Primeiro Lugar*
 
-## Descrição
+### **Descrição**
 
 Talk.me é uma rede de apoio psicológico com um feed de publicações e interatividade. O principal foco do aplicativo é proporcionar atendimento online entre psicólogo e paciente, facilitando o acesso de pessoas que precisam de auxílio psicológico a profissionais capacitados em saúde mental.
 
